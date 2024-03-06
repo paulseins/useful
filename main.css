@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(26, 62, 78);
+}
+
+h1,
+p,
+h2,
+a {
+  font-family: sans-serif;
+  color: white;
+}
+
+body {
+  width: 2rem;
+  padding-left: 2rem;
+}
